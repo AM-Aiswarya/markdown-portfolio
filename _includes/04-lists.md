@@ -1,0 +1,3 @@
+* sweets
+* happiness
+* nature
